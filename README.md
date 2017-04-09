@@ -1,0 +1,2 @@
+# KotlinKoansSample
+Kotlinに慣れるためのリポジトリ
